@@ -25,8 +25,7 @@ module.exports = function(grunt) {
     },
     open : {
         dev : {
-            path: 'http://127.0.0.1:8000/app/',
-            app: 'Google Chrome'
+            path: 'http://127.0.0.1:8000/app/'
         }
     }
   });
